@@ -3,6 +3,8 @@
 # Cuaderno de síntesis
 ## Diseño de Circuitos
 
+<img width="738" height="234" alt="image" src="https://github.com/user-attachments/assets/f174e1dc-1c5c-4ebb-a1be-8a0860d2fb43" />
+
 **Universidad Nacional de Loja**  
 Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables  
 **Carrera de Computación**
@@ -22,9 +24,9 @@ Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
 
 | Unidad | Tema | Estado |
 |:-:|---|:-:|
-| **1** | [Lógica combinacional con diseño clásico](unidad-1/README.md) (semanas 1 a 4) | ✅ Disponible |
-| **2** | [Lógica secuencial](unidad-2/README.md) | 🚧 Próximamente |
-| **3** | [Descripción en VHDL](unidad-3/README.md) | 🚧 Próximamente |
+| **1** | [Lógica combinacional con diseño clásico](unidad-1/README.md) (semanas 1 a 4) | 
+| **2** | [Lógica secuencial](unidad-2/README.md) |
+| **3** | [Descripción en VHDL](unidad-3/README.md) | 
 
 ### Unidad 1 · Semanas
 1. [Semana 1: Sistemas numéricos, códigos y compuertas](unidad-1/semana-01.md)
@@ -32,5 +34,3 @@ Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
 3. [Semana 3: Mapas de Karnaugh, indiferentes y NAND/NOR](unidad-1/semana-03.md)
 4. [Semana 4: Circuitos aritméticos](unidad-1/semana-04.md)
 
-📌 [Resumen y errores frecuentes de la Unidad 1](unidad-1/resumen.md)  
-📄 [Versión en PDF de la Unidad 1](unidad-1/U1_Cuaderno_Calva_Matias.pdf)
