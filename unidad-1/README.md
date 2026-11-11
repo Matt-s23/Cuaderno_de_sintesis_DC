@@ -11,6 +11,4 @@
 | 3 | [Mapas de Karnaugh, indiferentes y NAND/NOR](semana-03.md) | Agrupar 1 en potencias de 2 da el mínimo; las X ayudan; SOP→NAND-NAND. |
 | 4 | [Circuitos aritméticos](semana-04.md) | Sumadores, ripple, resta con XOR, overflow, comparador → ALU. |
 
-📌 [Resumen y errores frecuentes](resumen.md)
-
 [← Volver a la portada](../README.md)
