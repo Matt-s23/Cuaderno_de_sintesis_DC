@@ -31,7 +31,7 @@ La columna 0 suma 2 bits (**semisumador**); las demás suman 3 bits: A, B y Cin 
 ### Overflow y comparador
 - **Overflow** (4 bits con signo): 0101 + 0100 = 1001 → −7 ✗. Se detecta con **V = C3 ⊕ C4**. **Cout = 1 NO significa error.**
 - **Comparador:** A = B → XNOR por bit y AND de todas. A > B → desde la izquierda, el primer bit distinto decide (integrado 7485).
-- **ALU** = sumador/restador + comparador + AND/OR/XOR + multiplexor (semana 5).
+- **ALU** = sumador/restador + comparador + AND/OR/XOR + multiplexor .
 
 ### Taller resuelto
 | Ejercicio | Resolución |
