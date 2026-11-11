@@ -25,8 +25,8 @@ Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables
 | Unidad | Tema | Estado |
 |:-:|---|:-:|
 | **1** | [Lógica combinacional con diseño clásico](unidad-1/README.md) (semanas 1 a 4) | 
-| **2** | [Lógica secuencial](unidad-2/README.md) |
-| **3** | [Descripción en VHDL](unidad-3/README.md) | 
+| **2** | [N/D](unidad-2/README.md) |
+| **3** | [N/D](unidad-3/README.md) | 
 
 ### Unidad 1 · Semanas
 1. [Semana 1: Sistemas numéricos, códigos y compuertas](unidad-1/semana-01.md)
