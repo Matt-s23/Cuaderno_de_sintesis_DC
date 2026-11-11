@@ -36,7 +36,7 @@
 
 - AND: 1 solo si **todas** valen 1 · OR: 1 si **al menos una** vale 1 · XOR: 1 si son **distintas** · XNOR: 1 si son **iguales**.
 - Con solo NAND (o solo NOR) se construye cualquier circuito.
-- **74LS08** (4 AND de 2 entradas, DIP-14): VCC = pin 14 (+5 V), GND = pin 7; pin 1 junto a la muesca, conteo antihorario. Código SN 74 LS 08 N: fabricante · rango comercial · familia (LS = TTL, HC = CMOS) · función · encapsulado.
+- **74LS08** (4 AND de 2 entradas, DIP-14): VCC = pin 14 (+5 V), GND = pin 7; pin 1 junto a la muesca, conteo antihorario. Código SN 74 LS 08 N: fabricante - rango comercial - familia (LS = TTL, HC = CMOS) - función - encapsulado.
 
 ---
 [← Índice de la unidad](README.md) · [Índice](README.md) · [Semana 2 →](semana-02.md)
